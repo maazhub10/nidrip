@@ -1,16 +1,3 @@
 # nidrip
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nidrip is an e-commerce mobile application for browsing and purchasing electronic products. It features an admin panel for uploading and managing products, which are displayed dynamically in the mobile app. Users can explore products, view details, read reviews, add items to their shopping cart, and provide their delivery address during checkout.
